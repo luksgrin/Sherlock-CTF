@@ -21,5 +21,5 @@ Have fun!
 | HauntedDungeon.sol | [0x137A5B4bB53A62BD1Db46e563b89D1884afaC0Ac](https://goerli.etherscan.io/address/0x137A5B4bB53A62BD1Db46e563b89D1884afaC0Ac) |
 | Setup.sol          | [0x9bdcf71048dfd8ef1c03a7ae3ede79f04a096b7f](https://goerli.etherscan.io/address/0x9bdcf71048dfd8ef1c03a7ae3ede79f04a096b7f) |
 
-*Note that this repo is a copy of the original private repo held by [Sherlock](https://github.com/sherlock-protocol) where I pushed my contribution to the CTF*
+*Note that this repo is a copy of the original private repo held by [Sherlock](https://github.com/sherlock-protocol) where I pushed my contribution to the CTF.*
 *Also note that this is my first ever smart contract.*
